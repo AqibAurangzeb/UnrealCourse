@@ -48,5 +48,5 @@ string GetGuess()
 void printGuess(string guess)
 {
 	// Print a guess from the player
-	cout << "Your guess was: " << guess << "\n";
+	cout << "Your guess was: " << guess << endl;
 }
